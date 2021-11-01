@@ -19,7 +19,7 @@ The project is accomplished by team `INteam` with members:
  `numpy`, `matplotlib`and `csv`
 
 ### Results
-final predictions on test data `finalsubmission.csv`.
+final predictions on test data `predict.csv`.
 * * *
 
 
@@ -30,14 +30,14 @@ final predictions on test data `finalsubmission.csv`.
 
 ### Hyperparameter tuning:
 
-`crossvalidalidation.py`: using cross-validation to test the accuracy of different models.
+using cross-validation to test the accuracy of different models.
 
 
 ### Notebook
 
-`ml-epfl.ipynb`: all the running and testing used by this file, so you can check the output of cells to see the results
+`ml_epfl.ipynb`: all the running and testing used by this file, so you can check the output of cells to see the results
 
 ### Documentation
 
-`documents/report.pdf`: a 2-pages report of the complete solution.
+`report.pdf`: a 2-pages report of the complete solution.
 
